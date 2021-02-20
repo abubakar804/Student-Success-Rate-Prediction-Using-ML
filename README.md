@@ -18,17 +18,17 @@ If you are to use any part of this code, please fulfill the following requiremen
 
 ## Requirements
 
-#### Tools:-
+#### Tools
 Anaconda Individual Edition 2020.07 (Jupyter Notebook).
 
-#### Installation Guide:-
+#### Installation Guide
 ##### [For Windows](https://docs.anaconda.com/anaconda/install/windows/)
 ##### [For MacOS](https://docs.anaconda.com/anaconda/install/mac-os/)
 ##### [For Linux](https://docs.anaconda.com/anaconda/install/linux/)
 ##### [Installation website for Anaconda](https://www.anaconda.com/products/individual)
 ##### [Getting started with Anaconda](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
 
-#### Libraries:-
+#### Libraries
 ##### [NumPy 1.19.3](https://numpy.org/) (_Installed via code added in the code files_)
 ##### [SciPy 1.5.3](https://www.scipy.org/) (_Installed via code added in the code files_)
 ##### [Seaborn 0.11.0](https://seaborn.pydata.org/) (_Installed via code added in the code files_)
@@ -36,10 +36,10 @@ Anaconda Individual Edition 2020.07 (Jupyter Notebook).
 ##### [Scikit Learn 0.23.2](https://scikit-learn.org/stable/) (_Installed via code added in the code files_)
 ##### [Matplotlib.pyplot 3.3.2](https://matplotlib.org/stable/index.html) (_Installed via code added in the code files_)
 
-#### Operating System:-
+#### Operating System
 * Windows 8 or newer, 64-bit macOS 10.13+, or Linux, including Ubuntu, RedHat, CentOS 6+, and others.
 
-#### System Architecture:-
+#### System Architecture
 * Windows- 64-bit x86, 32-bit x86; MacOS- 64-bit x86; Linux- 64-bit x86, 64-bit Power8/Power9.
 * Minimum 5 GB disk space to download and install.
 
